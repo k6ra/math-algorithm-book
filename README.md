@@ -7,17 +7,17 @@ https://gihyo.jp/book/2022/978-4-297-12521-9
 # 2. アルゴリズムのための数学の基礎知識
 ## 2.1 数の分類・文字式・2進数
 
-![001 - Print 5+N](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_a) 
+[001 - Print 5+N](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_a) 
 
-![002 - Sum of 3 Integers](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_b)
+[002 - Sum of 3 Integers](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_b)
 
-![003 - Sum of N Integers](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_c)
+[003 - Sum of N Integers](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_c)
 
-![004 - Product of 3 Integers](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_d)
+[004 - Product of 3 Integers](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_d)
 
 ## 2.2 基本的な演算と記号
 
-![005 - Modulo 100](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_e)
+[005 - Modulo 100](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_e)
 
 ## 2.3 いろいろな関数
 
@@ -25,14 +25,75 @@ https://gihyo.jp/book/2022/978-4-297-12521-9
 
 ## 2.4 計三回数を見積ろう　～全探索と二分探索～
 
-![006 - Print 2N+3](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_f)
+[006 - Print 2N+3](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_f)
 
-![007 - Number of Multiples 1](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_g)
+[007 - Number of Multiples 1](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_g)
 
-![008 - Brute Force 1](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_h)
+[008 - Brute Force 1](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_h)
 
 ## 2.5 その他の基本的な数学の知識
 
-![010 - Factorial](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_j)
+[010 - Factorial](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_j)
 
-![011 - Print Prime Numbers](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_k)
+[011 - Print Prime Numbers](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_k)
+
+## 3.1 素数判定法
+
+[012 - Primality Test](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_l)
+
+[013 - Divisor Enumeration](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_m)
+
+[014 - Factorization](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_n)
+
+## 3.2 ユークリッドの互除法
+
+[015 - Calculate GCD](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_o)
+
+[016 - Greatest Common Divisor of N Integers](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_p)
+
+[017 - Least Common Multiple of N Integers](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_q)
+
+## 3.3 場合の数とアルゴリズム
+
+[018 - Convenience Store 1](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_r)
+
+[019 - Choose Cards 1](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_s)
+
+[020 - Choose Cards 2](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_t)
+
+[021 - Combination Easy](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_u)
+
+[022 - Choose Cards 3](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_v)
+
+## 3.4 確率・期待値とアルゴリズム
+
+[023 - Dice Expectation](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_w)
+
+[024 - Answer Exam Randomly](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_x)
+
+[025 - Jiro's Vacation](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_y)
+
+[026 - Coin Gacha](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_z)
+
+## 3.5 モンテカルロ法 ～統計的な考え方～
+
+問題なし
+
+## 3.6 ソートと再起の考え方
+
+[027 - Sorting](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_aa)
+
+## 3.7 動的計画法 ～漸化式の利用～
+
+[028 - Frog 1](https://atcoder.jp/contests/math-and-algorithm/tasks/dp_a)
+
+[029 - Climb Stairs](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_ab)
+
+[030 - Knapsack 1](https://atcoder.jp/contests/math-and-algorithm/tasks/dp_d)
+
+[009 - Brute Force 2](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_i)
+
+[031 - Taro's Vacation](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_ac)
+
+コラム3 配列の二分探索
+[032 - Binary Search](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_ad)
