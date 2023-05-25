@@ -97,3 +97,33 @@ https://gihyo.jp/book/2022/978-4-297-12521-9
 
 コラム3 配列の二分探索
 [032 - Binary Search](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_ad)
+
+## 4.1 コンピュータで図形問題を ～計算機科学～
+
+[033 - Distance](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_ae)
+
+[034 - Nearest Points](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_af)
+
+[035 - Two Circles](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_ag)
+
+[036 - : (Colon)](https://atcoder.jp/contests/math-and-algorithm/tasks/abc168_c)
+
+[037 - Intersection](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_ah)
+
+## 4.2 階差と累積和
+
+[038 - How Many Guests?](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_ai)
+
+[039 - Snowy Days](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_aj)
+
+[040 - Travel](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_ak)
+
+[041 - Convenience Store 2](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_al)
+
+## 4.3 ニュートン法 ～数値計算をやってみよう～
+
+問題なし
+
+## 4.4 エラトステネスのふるい
+
+[042 - Sum of Divisors](https://atcoder.jp/contests/math-and-algorithm/tasks/abc172_d)
