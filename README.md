@@ -127,3 +127,9 @@ https://gihyo.jp/book/2022/978-4-297-12521-9
 ## 4.4 エラトステネスのふるい
 
 [042 - Sum of Divisors](https://atcoder.jp/contests/math-and-algorithm/tasks/abc172_d)
+
+## 4.5 グラフを使ったアルゴリズム
+
+[043 - Depth First Search](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_am)
+
+[044 - Shortest Path 1](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_an)
