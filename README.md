@@ -137,3 +137,7 @@ https://gihyo.jp/book/2022/978-4-297-12521-9
 [045 - Easy Graph Problem](https://atcoder.jp/contests/math-and-algorithm/tasks/typical90_bz)
 
 [046 - 幅優先探索](https://atcoder.jp/contests/math-and-algorithm/tasks/abc007_3)
+
+[047 - Bipartite Graph](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_ao)
+
+[048 - Small Multiple](https://atcoder.jp/contests/math-and-algorithm/tasks/arc084_b)
