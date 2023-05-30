@@ -141,3 +141,11 @@ https://gihyo.jp/book/2022/978-4-297-12521-9
 [047 - Bipartite Graph](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_ao)
 
 [048 - Small Multiple](https://atcoder.jp/contests/math-and-algorithm/tasks/arc084_b)
+
+## 4.6 効率的な余りの計算
+
+[049 - Fibonacci Easy (mod 1000000007)](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_ap)
+
+[050 - Power](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_aq)
+
+[051 - Combination Hard](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_ar)
