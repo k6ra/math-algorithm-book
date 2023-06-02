@@ -149,3 +149,7 @@ https://gihyo.jp/book/2022/978-4-297-12521-9
 [050 - Power](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_aq)
 
 [051 - Combination Hard](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_ar)
+
+[052 - Knight](https://atcoder.jp/contests/math-and-algorithm/tasks/abc145_d)
+
+[053 - Sum of 4^N](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_as)
