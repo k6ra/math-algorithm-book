@@ -157,3 +157,5 @@ https://gihyo.jp/book/2022/978-4-297-12521-9
 [054 - Fibonacci Hard (mod 1000000000) ](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_at)
 
 [055 - Recurrence Formula 1](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_au)
+
+[056 - Recurrence Formula 2](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_av)
