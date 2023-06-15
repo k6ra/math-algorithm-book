@@ -164,4 +164,12 @@ https://gihyo.jp/book/2022/978-4-297-12521-9
 
 ## 5.1 なぜ数学的考察が大切か
 
-[058 - Move on Squares 1 ](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_ax)
+[058 - Move on Squares 1](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_ax)
+
+## 5.2 規則性を考える
+
+[059 - Power of Two](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_ay)
+
+[060 - Stones](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_az)
+
+[061 - Stones Game 2](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_ba)
