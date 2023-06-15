@@ -161,3 +161,7 @@ https://gihyo.jp/book/2022/978-4-297-12521-9
 [056 - Recurrence Formula 2](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_av)
 
 [057 - Domino Tiling](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_aw)
+
+## 5.1 なぜ数学的考察が大切か
+
+[058 - Move on Squares 1 ](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_ax)
