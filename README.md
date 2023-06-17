@@ -183,3 +183,11 @@ https://gihyo.jp/book/2022/978-4-297-12521-9
 [064 - All Zero](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_bc)
 
 [065 - Bishop](https://atcoder.jp/contests/math-and-algorithm/tasks/panasonic2020_b)
+
+## 5.4 集合を上手く扱う
+
+[066 - Three Cards](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_bd)
+
+[067 - Cross Sum（★2）](https://atcoder.jp/contests/math-and-algorithm/tasks/typical90_d)
+
+[068 - Number of Multiples 2](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_be)
