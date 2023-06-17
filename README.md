@@ -191,3 +191,11 @@ https://gihyo.jp/book/2022/978-4-297-12521-9
 [067 - Cross Sum（★2）](https://atcoder.jp/contests/math-and-algorithm/tasks/typical90_d)
 
 [068 - Number of Multiples 2](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_be)
+
+## 5.5 ギリギリを考える
+
+[069 - Product Max](https://atcoder.jp/contests/math-and-algorithm/tasks/abc178_b)
+
+[070 - Axis-Parallel Rectangle](https://atcoder.jp/contests/math-and-algorithm/tasks/abc075_d)
+
+[071 - Linear Programming](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_bf)
