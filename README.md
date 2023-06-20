@@ -209,3 +209,5 @@ https://gihyo.jp/book/2022/978-4-297-12521-9
 ## 5.7 足された回数を考える
 
 [074 - Sum of difference Easy](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_bh)
+
+[075 - Pyramid ](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_bi)
