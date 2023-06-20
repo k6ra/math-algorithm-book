@@ -199,3 +199,13 @@ https://gihyo.jp/book/2022/978-4-297-12521-9
 [070 - Axis-Parallel Rectangle](https://atcoder.jp/contests/math-and-algorithm/tasks/abc075_d)
 
 [071 - Linear Programming](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_bf)
+
+## 5.6 小問題に分解する
+
+[072 - Max GCD 2](https://atcoder.jp/contests/math-and-algorithm/tasks/jsc2021_c)
+
+[073 - Sum of Maximum](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_bg)
+
+## 5.7 足された回数を考える
+
+[074 - Sum of difference Easy](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_bh)
