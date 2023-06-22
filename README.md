@@ -211,3 +211,7 @@ https://gihyo.jp/book/2022/978-4-297-12521-9
 [074 - Sum of difference Easy](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_bh)
 
 [075 - Pyramid ](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_bi)
+
+[076 - Sum of difference](https://atcoder.jp/contests/math-and-algorithm/tasks/abc186_d)
+
+[077 - Distance Sum](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_bj)
