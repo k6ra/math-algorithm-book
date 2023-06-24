@@ -215,3 +215,11 @@ https://gihyo.jp/book/2022/978-4-297-12521-9
 [076 - Sum of difference](https://atcoder.jp/contests/math-and-algorithm/tasks/abc186_d)
 
 [077 - Distance Sum](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_bj)
+
+## 5.8 上界を考える
+
+[078 - Difference Optimization 1](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_bk)
+
+[079 - ModSum](https://atcoder.jp/contests/math-and-algorithm/tasks/abc139_d)
+
+[080 - Difference Optimization 2](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_bl)
