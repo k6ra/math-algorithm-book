@@ -223,3 +223,11 @@ https://gihyo.jp/book/2022/978-4-297-12521-9
 [079 - ModSum](https://atcoder.jp/contests/math-and-algorithm/tasks/abc139_d)
 
 [080 - Difference Optimization 2](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_bl)
+
+## 5.9 次の手だけを考える　～貪欲法～
+
+[081 - Bill Changing Problem](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_bm)
+
+[082 - Interval Scheduling Problem](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_bn)
+
+[083 - We Used to Sing a Song Together（★3）](https://atcoder.jp/contests/math-and-algorithm/tasks/typical90_n)
