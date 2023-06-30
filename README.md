@@ -231,3 +231,19 @@ https://gihyo.jp/book/2022/978-4-297-12521-9
 [082 - Interval Scheduling Problem](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_bn)
 
 [083 - We Used to Sing a Song Together（★3）](https://atcoder.jp/contests/math-and-algorithm/tasks/typical90_n)
+
+## 5.10 その他の数学的考察
+
+[084 - Sqrt Inequality](https://atcoder.jp/contests/math-and-algorithm/tasks/panasonic2020_c)
+
+[085 - Two Conditions](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_bo)
+
+[086 - Parentheses Check](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_bp)
+
+[087 - Simple Math Easy](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_bq)
+
+[088 - Simple Math](https://atcoder.jp/contests/math-and-algorithm/tasks/arc107_a)
+
+[089 - Log Inequality 2](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_by)
+
+[090 - Digit Product Equation（★7）](https://atcoder.jp/contests/math-and-algorithm/tasks/typical90_y)
