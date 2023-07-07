@@ -257,3 +257,5 @@ https://gihyo.jp/book/2022/978-4-297-12521-9
 [093 - Large LCM](https://atcoder.jp/contests/math-and-algorithm/tasks/typical90_al)
 
 [094 - Maximal Value](https://atcoder.jp/contests/math-and-algorithm/tasks/abc140_c)
+
+[095 - Score Sum Queries](https://atcoder.jp/contests/math-and-algorithm/tasks/typical90_j)
