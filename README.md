@@ -259,3 +259,9 @@ https://gihyo.jp/book/2022/978-4-297-12521-9
 [094 - Maximal Value](https://atcoder.jp/contests/math-and-algorithm/tasks/abc140_c)
 
 [095 - Score Sum Queries](https://atcoder.jp/contests/math-and-algorithm/tasks/typical90_j)
+
+[096 - Cooking](https://atcoder.jp/contests/math-and-algorithm/tasks/abc204_d)
+
+[097 - Primes in an Interval](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_bt)
+
+[098 - Polygon and Point](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_bu)
