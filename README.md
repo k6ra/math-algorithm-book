@@ -265,3 +265,11 @@ https://gihyo.jp/book/2022/978-4-297-12521-9
 [097 - Primes in an Interval](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_bt)
 
 [098 - Polygon and Point](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_bu)
+
+[099 - Tree Distance](https://atcoder.jp/contests/math-and-algorithm/tasks/typical90_am)
+
+[100 - Simulation of Chemicals](https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_bv)
+
+[101 - Don't be too close](https://atcoder.jp/contests/math-and-algorithm/tasks/typical90_o)
+
+[102 - Tricolor Pyramid](https://atcoder.jp/contests/math-and-algorithm/tasks/arc117_c)
