@@ -4,16 +4,7 @@ import (
 	"bufio"
 	"fmt"
 	"os"
-	"strconv"
 )
-
-var sc = bufio.NewScanner(os.Stdin)
-
-func scan() int {
-	sc.Scan()
-	n, _ := strconv.Atoi(sc.Text())
-	return n
-}
 
 func ncr(x, y int) int {
 	if x < 3 && y < 3 {
@@ -29,13 +20,10 @@ func ncr(x, y int) int {
 }
 
 func main() {
-	sc.Split(bufio.ScanWords)
-
-	n := scan()
-
 	in := bufio.NewReader(os.Stdin)
+	var n int
 	var c string
-	fmt.Fscan(in, &c)
+	fmt.Fscan(in, &n, &c)
 
 	ans := 0
 	for i, v := range c {
